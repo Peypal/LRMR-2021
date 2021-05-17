@@ -1,5 +1,5 @@
 # 2021矿产资源领域内法律法规汇总
- 矿产资源领域内法律法规汇总 Summary of laws and regulations in the field of mineral resources in 2021
+<pre> 矿产资源领域内法律法规汇总 Summary of laws and regulations in the field of mineral resources in 2021
 ├─汇编一  法律
 │  ├─1  矿产资源管理法律、法规及部门规章
 │  │      1   《中华人民共和国矿产资源法》.doc
@@ -225,3 +225,4 @@
             7   国务院办公厅关于加快煤层气（煤矿瓦斯）抽采利用的若干意见.docx
             8   国务院关于同意在山西省开展煤炭工业可持续发展政策措施试点意见的批复.docx
             9   国务院关于促进稀土行业持续健康发展的若干意见.docx
+</pre>
